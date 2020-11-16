@@ -27,14 +27,6 @@ article {
   justify-content: center;
 }
 
-.category img {
-  width: 100px;
-  height: 100px;
-  margin-top: 29px;
-  padding: 5px;
-  border-radius: 50%;
-}
-
 h1 {
   color: gold;
   font-weight: 700;
@@ -64,7 +56,7 @@ b {
 main {
   position: absolute;
   overflow: auto;
-  top: 35px;
+  top: 100px;
   width: 100%;
   transform: translate3d(0, 0, 0);
 }
